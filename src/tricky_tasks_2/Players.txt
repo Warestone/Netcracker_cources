@@ -1,0 +1,21 @@
+
+----------------------
+Player: John
+Word: isDone
+Trials: 2
+Passed: true
+----------------------
+Player: Max
+Word: isDone
+Trials: 1
+Passed: true
+----------------------
+Player: Diana (im dead for this)
+Word: Netcracker
+Trials: 2
+Passed: false
+----------------------
+Player: Илья
+Word: Program
+Trials: 2
+Passed: true
